@@ -1,0 +1,8 @@
+ethereum-voting-dapp/
+├── contracts/
+│   └── Voting.sol
+├── src/
+│   ├── index.html
+│   └── app.js
+├── README.md
+└── .gitignore
